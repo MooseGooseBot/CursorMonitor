@@ -5,7 +5,7 @@
   "description": "Local-only Cursor usage/cost meter proof-of-concept. Uses the unofficial personal dashboard JSON endpoints or optional team Admin API.",
   "type": "module",
   "engines": {
-    "node": ">=18.17.0"
+    "node": ">=18.20.8"
   },
   "scripts": {
     "start": "node src/server.js",
